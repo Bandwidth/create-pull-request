@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  schemaVersion: v1.0.0
+  name: create-pull-request-location
+  description: Links to additional entities in the create-pull-request repository.
+  annotations:
+    github.com/project-slug: Bandwidth/create-pull-request
+spec:
+  targets:
+    - ./component.yaml
