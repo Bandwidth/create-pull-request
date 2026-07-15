@@ -6,6 +6,7 @@ metadata:
   description: Forked from peter-evans/create-pull-request
   annotations:
     github.com/project-slug: Bandwidth/create-pull-request
+    bandwidth.com/languages: Node.js
   organization: BW
   costCenter: Development - Software Infra
   platformType: undefined
